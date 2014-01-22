@@ -1,3 +1,4 @@
+require 'scraperwiki'
 require 'mechanize'
 
 domain = "http://www.onkaparingacity.com"
@@ -55,7 +56,7 @@ page.search('#body > p').each do |p|
       'on_notice_to' => on_notice_to,
     }
 
-    if (ScraperWiki.select("* from swdata where `council_reference`='#{record['council_reference']}'").empty? rescue true)
+    if (ScraperWiki.select("* from data where `council_reference`='#{record['council_reference']}'").empty? rescue true)
       ScraperWiki.save_sqlite(['council_reference'], record)
     else
       puts "Skipping already saved record " + record['council_reference']
