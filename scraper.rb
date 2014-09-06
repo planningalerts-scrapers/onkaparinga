@@ -23,6 +23,7 @@ page = agent.get(url)
 
 page.search('#body > p').each do |p|
 
+  next if p.previous_element.nil?
   council_reference = p.previous_element.inner_text.split(" ").last
 
   info = p.inner_html.split("<br>")
@@ -39,7 +40,10 @@ page.search('#body > p').each do |p|
     end
 
     # Sometimes there is an empty <p> after a DA
-    urls = p.next_element.search('a').empty? ? p.next_element.next_element.search('a') : p.next_element.search('a')
+    urls = nil
+    urls = p.next_element.next_element.search('a') rescue nil
+    urls ||= p.next_element.search('a') rescue nil
+ 
 
     on_notice_from = find_item_from(info, /Advertising Date:(.*)/).split(' ').last.split('/').reverse.join('-')
 
@@ -49,8 +53,8 @@ page.search('#body > p').each do |p|
       'council_reference' => council_reference,
       'address' => clean(address) + ", SA",
       'description' => find_item_from(info, /Nature of Development:(.*)/),
-      'info_url' => domain + urls[0]['href'],
-      'comment_url' => domain + urls[1]['href'],
+      'info_url' => (domain + urls[0]['href'] rescue nil),
+      'comment_url' => (domain + urls[1]['href'] rescue nil),
       'date_scraped' => Date.today.to_s,
       'on_notice_from' => on_notice_from,
       'on_notice_to' => on_notice_to,
