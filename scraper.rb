@@ -32,7 +32,8 @@ page.search('#body > p').each do |p|
 
   council_reference = find_item_from(info, /Application Number:.* ([^<]+)/)
   address = find_item_from(info, /Subject Land:(.*)/)
-  if address && address.include?('(')
+  next if address.nil?
+  if address.include?('(')
     address = address.split('(').first + address.split(')').last
   end
 
