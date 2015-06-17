@@ -58,7 +58,7 @@ page.search('div.centricGeneral p').each do |p|
     'address' => get_field(p, 'Subject Land:'),
     'description' => get_field(p, 'Nature of Development:'),
     'info_url' => url,
-    'comment_url' => comment_url + council_reference,
+    'comment_url' => comment_url + CGI::escape(council_reference),
     'date_scraped' => Date.today.to_s,
     'on_notice_from' => maybe_get_date(p, 'Advertising Date:'),
     'on_notice_to' => maybe_get_date(p, 'Close Date:'),
