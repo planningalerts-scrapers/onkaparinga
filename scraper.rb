@@ -50,12 +50,22 @@ end
 found = false
 page.search('div.centricGeneral p').each do |p|
   next unless p.inner_text =~ /\AApplication Number:/;
-
   found = true
   council_reference = get_field(p, 'Application Number:')
+
+  # Fix up the address:
+  address = get_field(p, 'Subject Land:')
+  # "278 (Allot 55 Sec 159 DP 69079) Communication Road, TATACHILLA SA 5171"
+  if address.include?('(')
+    address = address.split('(').first + address.split(')').last
+  end
+  address.squeeze!(' ')
+  # "Allot 102 Sec 1242 Range Road West, WILLUNGA SOUTH SA 5172"
+  address.sub!(/\AAllot \S+ Sec /, '')
+
   record = {
     'council_reference' => council_reference,
-    'address' => get_field(p, 'Subject Land:'),
+    'address' => address,
     'description' => get_field(p, 'Nature of Development:'),
     'info_url' => url,
     'comment_url' => comment_url + CGI::escape(council_reference),
