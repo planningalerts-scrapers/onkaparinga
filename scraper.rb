@@ -15,13 +15,25 @@ end
 # The structure looks like:
 # <strong>Key:</strong>val<br>
 #
-def get_field(p, key)
+def maybe_get_field(p, key)
   p.search('strong').each do |elem|
     if elem.inner_text.start_with?(key)
       val = elem.next_sibling
       return clean(val.inner_text) if val.name == 'text'
     end
   end
+  return ''
+end
+
+def get_field(p, key)
+  val = maybe_get_field(p, key)
+  raise "Can't find mandator field " + key if val == ''
+  return val
+end
+
+def maybe_get_date(p, key)
+  val = maybe_get_field(p, key)
+  return Date.parse(val).to_s if val != ''
   return ''
 end
 
@@ -48,8 +60,8 @@ page.search('div.centricGeneral p').each do |p|
     'info_url' => url,
     'comment_url' => comment_url + council_reference,
     'date_scraped' => Date.today.to_s,
-    'on_notice_from' => get_field(p, 'Advertising Date:'),
-    'on_notice_to' => get_field(p, 'Close Date:'),
+    'on_notice_from' => maybe_get_date(p, 'Advertising Date:'),
+    'on_notice_to' => maybe_get_date(p, 'Close Date:'),
   }
 
   if (ScraperWiki.select("* from data where `council_reference`='#{record['council_reference']}'").empty? rescue true)
