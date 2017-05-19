@@ -16,16 +16,15 @@ end
 puts "Getting data in year `" + ENV['MORPH_PERIOD'].to_s + "`, changable via MORPH_PERIOD environment"
 
 base_url = "http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/"
-url = "#{base_url}default.aspx"
 comment_url = "mailto:mailbox@darebin.vic.gov.au"
 
 # get the right cookies
 agent = Mechanize.new
 agent.user_agent_alias = 'Mac Safari'
-page = agent.get url
+page = agent.get base_url + "default.aspx"
 
 # get to the page I can enter DA search
-page = agent.get "http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP"
+page = agent.get base_url + "GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP"
 
 # local DB lookup if DB exist and find out what is the maxDA number
 i = 1;
