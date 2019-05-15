@@ -16,7 +16,6 @@ end
 puts "Getting data in year `" + ENV['MORPH_PERIOD'].to_s + "`, changable via MORPH_PERIOD environment"
 
 base_url = "http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/"
-comment_url = "mailto:mail@onkaparinga.sa.gov.au"
 
 # get the right cookies
 agent = Mechanize.new
@@ -57,7 +56,6 @@ while cont do
       'address'           => tr.search('span')[3].inner_text,
       'description'       => tr.search('span')[2].inner_text.gsub("\n", '. ').squeeze(' '),
       'info_url'          => base_url + 'GeneralEnquiry/' + tr.search('a')[0]['href'],
-      'comment_url'       => comment_url,
       'date_scraped'      => Date.today.to_s,
       'date_received'     => Date.parse(tr.search('span')[1].inner_text).to_s,
     }
