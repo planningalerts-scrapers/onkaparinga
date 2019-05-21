@@ -1499,7 +1499,9 @@
   date_received: '2019-02-11'
 - council_reference: 297/2019
   address: 16 Seashell Street, SEAFORD MEADOWS  SA  5169
-  description: 'test 2. '
+  description: 'test 2
+
+'
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-11'
@@ -1747,7 +1749,9 @@
   date_received: '2019-02-11'
 - council_reference: 333/2019
   address: 1 Liston Street, O'HALLORAN HILL  SA  5158
-  description: 'Verandah. '
+  description: 'Verandah
+
+'
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-13'
@@ -2643,8 +2647,8 @@
   date_received: '2019-02-26'
 - council_reference: 466/2019
   address: 12-18 Gulfview Road, CHRISTIES BEACH  SA  5165
-  description: Construct a new two-storey building comprising one shop tenancy with
-    associated on-site parking and three dwellings above, one two-storey building
+  description: Construct a new two-storey building comprising one shop tenancy  with
+    associated on-site parking  and three dwellings above, one two-storey building
     comprising six dwellings with garages fronting Gulfview Road, one two-storey building
     comprising three dwellings and garages fronting Roy Terrace and one two-storey
     building located centrally on the site comprising four dwellings with garages
@@ -3177,7 +3181,9 @@
   date_received: '2019-03-05'
 - council_reference: 544/2019
   address: 107 Ridgway Drive, FLAGSTAFF HILL  SA  5159
-  description: 'Demolition of dwelling and swimming pool. '
+  description: 'Demolition of dwelling and swimming pool
+
+'
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-07'
@@ -4410,20 +4416,13 @@
   date_received: '2019-03-28'
 - council_reference: 727/2019
   address: 166 Esplanade, ALDINGA BEACH  SA  5173
-  description: Variation to DA 145/8067/2018 - Deletion of Development Plan Consent
-    Conditions 2 and 3 (A stormwater management plan with supportive calculations
-    for lot 20 shall be provided to council and endorsed prior to section 51 clearance
-    being granted. and That effective measures be implemented during the construction
-    of the development and on-going use of the land in accordance with this consent
-    to:. prevent silt run-off from the land to adjoining properties, roads and drains.
-    control dust arising from the construction and other activities, so as not to,
-    in the opinion of council, be a nuisance to residents or occupiers on adjacent
-    or nearby land. ensure that soil or mud is not transferred onto the adjacent roadways
-    by vehicles leaving the site. ensure that all litter and building waste is contained
-    on the subject site in a suitable covered bin or enclosure, and. ensure that no
-    sound is emitted from any device, plant or equipment or from any source or activity
-    to become an unreasonable nuisance, in the opinion of council, to the occupiers
-    of adjacent land.)
+  description: |-
+    Variation to DA 145/8067/2018 - Deletion of Development Plan Consent Conditions 2 and 3 (A stormwater management plan with supportive calculations for lot 20 shall be provided to council and endorsed prior to section 51 clearance being granted.  and That effective measures be implemented during the construction of the development and on-going use of the land in accordance with this consent to:
+    prevent silt run-off from the land to adjoining properties, roads and drains
+    control dust arising from the construction and other activities, so as not to, in the opinion of council, be a nuisance to residents or occupiers on adjacent or nearby land
+    ensure that soil or mud is not transferred onto the adjacent roadways by vehicles leaving the site
+    ensure that all litter and building waste is contained on the subject site in a suitable covered bin or enclosure, and
+    ensure that no sound is emitted from any device, plant or equipment or from any source or activity to become an unreasonable nuisance, in the opinion of council, to the occupiers of adjacent land.)
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-29'
@@ -4652,7 +4651,9 @@
   date_received: '2019-04-03'
 - council_reference: 762/2019
   address: 2 Dunedin Court, NOARLUNGA DOWNS  SA  5168
-  description: 'Tree removal. '
+  description: 'Tree removal
+
+'
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-03'
@@ -5253,7 +5254,9 @@
   date_received: '2019-04-15'
 - council_reference: 851/2019
   address: 46 Sunningdale Drive, CHRISTIE DOWNS  SA  5164
-  description: 'Shed. '
+  description: 'Shed
+
+'
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-15'
@@ -6058,7 +6061,9 @@
   date_received: '2019-05-07'
 - council_reference: 972/2019
   address: 15 Bimbadene Road, REYNELLA  SA  5161
-  description: 'Carport. '
+  description: 'Carport
+
+'
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-06'
