@@ -6,10 +6,7 @@ puts "Getting data in year `" + ENV['MORPH_PERIOD'] + "`, changable via MORPH_PE
 
 base_url = "http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/"
 
-# get the right cookies
 agent = Mechanize.new
-agent.user_agent_alias = 'Mac Safari'
-page = agent.get base_url + "default.aspx"
 
 # get to the page I can enter DA search
 page = agent.get base_url + "GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP"
