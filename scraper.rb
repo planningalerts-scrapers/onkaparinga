@@ -1,5 +1,4 @@
-require 'scraperwiki'
-require 'mechanize'
+require "epathway_scraper"
 
 def is_valid_year(date_str, min=2004, max=DateTime.now.year)
   if ( date_str.scan(/^(\d)+$/) )
