@@ -1,18 +1,8 @@
 require "epathway_scraper"
 
-def is_valid_year(date_str, min=2004, max=DateTime.now.year)
-  if ( date_str.scan(/^(\d)+$/) )
-    if ( (min..max).include?(date_str.to_i) )
-      return true
-    end
-  end
-  return false
-end
+ENV['MORPH_PERIOD'] ||= DateTime.now.year.to_s
 
-unless ( is_valid_year(ENV['MORPH_PERIOD'].to_s) )
-  ENV['MORPH_PERIOD'] = DateTime.now.year.to_s
-end
-puts "Getting data in year `" + ENV['MORPH_PERIOD'].to_s + "`, changable via MORPH_PERIOD environment"
+puts "Getting data in year `" + ENV['MORPH_PERIOD'] + "`, changable via MORPH_PERIOD environment"
 
 base_url = "http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/"
 
@@ -41,7 +31,7 @@ error = 0
 cont = true
 while cont do
   form = page.form
-  form.field_with(:name=>'ctl00$MainBodyContent$mGeneralEnquirySearchControl$mTabControl$ctl04$mFormattedNumberTextBox').value = i.to_s + '/' + ENV['MORPH_PERIOD'].to_s
+  form.field_with(:name=>'ctl00$MainBodyContent$mGeneralEnquirySearchControl$mTabControl$ctl04$mFormattedNumberTextBox').value = i.to_s + '/' + ENV['MORPH_PERIOD']
   button = form.button_with(:value => "Search")
   list = form.click_button(button)
 
