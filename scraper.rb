@@ -23,18 +23,20 @@ while cont do
   table = list.search("table.ContentPanel")
   unless ( table.empty? )
     error  = 0
-    tr     = table.search("tr.ContentPanel")
 
-    record = {
-      'council_reference' => tr.search('a').inner_text,
-      'address'           => tr.search('span')[3].inner_text,
-      'description'       => tr.search('span')[2].inner_text.gsub("\n", '. ').squeeze(' '),
-      'info_url'          => scraper.base_url,
-      'date_scraped'      => Date.today.to_s,
-      'date_received'     => Date.parse(tr.search('span')[1].inner_text).to_s,
-    }
+    scraper.extract_table_data_and_urls(table).each do |row|
+      data = scraper.extract_index_data(row)
+      record = {
+        'council_reference' => data[:council_reference],
+        'address'           => data[:address],
+        'description'       => data[:description].gsub("\n", '. ').squeeze(' '),
+        'info_url'          => scraper.base_url,
+        'date_scraped'      => Date.today.to_s,
+        'date_received'     => data[:date_received],
+      }
 
-    EpathwayScraper.save(record)
+      EpathwayScraper.save(record)
+    end
   else
     error += 1
   end
