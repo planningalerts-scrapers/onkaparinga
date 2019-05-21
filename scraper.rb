@@ -11,19 +11,7 @@ agent = Mechanize.new
 # get to the page I can enter DA search
 page = agent.get base_url + "GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP"
 
-# local DB lookup if DB exist and find out what is the maxDA number
 i = 1;
-sql = "select * from data where `council_reference` like '%/#{ENV['MORPH_PERIOD']}'"
-results = ScraperWiki.sqliteexecute(sql) rescue false
-if ( results )
-  results.each do |result|
-    maxDA = result['council_reference'].gsub!("/#{ENV['MORPH_PERIOD']}", '')
-    if maxDA.to_i > i
-      i = maxDA.to_i
-    end
-  end
-end
-
 error = 0
 cont = true
 while cont do
