@@ -20,25 +20,15 @@ cont = true
 while cont do
   list = scraper.search_for_one_application(page, "#{i}/#{ENV['MORPH_PERIOD']}")
 
-  table = list.search("table.ContentPanel")
-  unless ( table.empty? )
-    error  = 0
-
-    scraper.extract_table_data_and_urls(table).each do |row|
-      data = scraper.extract_index_data(row)
-      record = {
-        'council_reference' => data[:council_reference],
-        'address'           => data[:address],
-        'description'       => data[:description],
-        'info_url'          => scraper.base_url,
-        'date_scraped'      => Date.today.to_s,
-        'date_received'     => data[:date_received],
-      }
-
-      EpathwayScraper.save(record)
-    end
-  else
+  count = 0
+  scraper.scrape_index_page(list) do |record|
+    count += 1
+    EpathwayScraper.save(record)
+  end
+  if count == 0
     error += 1
+  else
+    error = 0
   end
 
   # increase i value and scan the next DA
