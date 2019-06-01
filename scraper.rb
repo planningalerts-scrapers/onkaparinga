@@ -1,33 +1,10 @@
 require "epathway_scraper"
 
 ENV['MORPH_PERIOD'] ||= DateTime.now.year.to_s
+year = ENV['MORPH_PERIOD'].to_i
+puts "Getting data in year `#{year}`, changable via MORPH_PERIOD environment"
 
-puts "Getting data in year `" + ENV['MORPH_PERIOD'] + "`, changable via MORPH_PERIOD environment"
-
-scraper = EpathwayScraper::Scraper.new(
-  "http://pathway.onkaparinga.sa.gov.au/ePathway/Production"
+EpathwayScraper.scrape_and_save(
+  "http://pathway.onkaparinga.sa.gov.au/ePathway/Production",
+  list_type: :all_year, year: year
 )
-agent = scraper.agent
-
-# get to the page I can enter DA search
-page = agent.get(scraper.base_url)
-
-i = 1;
-error = 0
-while error < 10 do
-  list = EpathwayScraper::Page::Search.search_for_one_application(page, "#{i}/#{ENV['MORPH_PERIOD']}")
-
-  count = 0
-  EpathwayScraper::Page::Index.scrape_index_page(list, scraper.base_url, scraper.agent) do |record|
-    count += 1
-    EpathwayScraper.save(record)
-  end
-  if count == 0
-    error += 1
-  else
-    error = 0
-  end
-
-  # increase i value and scan the next DA
-  i += 1
-end

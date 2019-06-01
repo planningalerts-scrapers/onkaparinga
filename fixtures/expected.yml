@@ -297,6 +297,15 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-14'
+- council_reference: 1043/2017/2
+  address: 1/54 Woodcroft Drive, MORPHETT VALE  SA  5162
+  description: Montessori School - conversion of existing administrative building
+    to classroom and office including the construction of two new classroom buildings
+    for up to 70 students (total) with associated car parking and landscaping - Final
+    Stage 2 All remaining works
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-20'
 - council_reference: 1043/2019
   address: 23A Dianne Street, HAPPY VALLEY  SA  5159
   description: Verandah
@@ -1346,6 +1355,14 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-23'
+- council_reference: 1371/2017/3
+  address: 110-118 O'Sullivan Beach Road, LONSDALE  SA  5160
+  description: Staged three-storey alterations and additions to existing office and
+    general industry, including extensions to warehouse, new warehouse and loading
+    dock and office areas, Stage 3 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-09'
 - council_reference: 138/2019
   address: 5/7-11 Englewood Close, SEAFORD RISE  SA  5169
   description: Skillion verandah
@@ -1359,6 +1376,20 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-23'
+- council_reference: 1395/2018/1
+  address: 29 Old Coach Road, ALDINGA  SA  5173
+  description: Convert existing dwelling to office with associated parking - Stage
+    1, change from dwelling to office
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-11'
+- council_reference: 1395/2018/2
+  address: 29 Old Coach Road, ALDINGA  SA  5173
+  description: Convert existing dwelling to office with associated parking, Stage
+    2 - proposed additions
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-11'
 - council_reference: 14/2019
   address: 28 Dalkeith Road, SEAFORD RISE  SA  5169
   description: Pool and decking
@@ -1385,12 +1416,27 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-23'
+- council_reference: 1436/2017/2
+  address: 1 Whitings Road, MCLAREN FLAT  SA  5171
+  description: Construction of a single storey dwelling with garage and demolition
+    of existing dwelling within two months of completion (non-complying), Stage 2
+    TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-09'
 - council_reference: 144/2019
   address: Allot 102 Sec 1242 Range Road West, WILLUNGA SOUTH  SA  5172
   description: Single storey dwelling with swimming pool
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-23'
+- council_reference: 1445/2018/2
+  address: 6 Duke Street, PORT NOARLUNGA  SA  5167
+  description: Two-storey dwelling with garage and alfresco, swimming pool and safety
+    fence, Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-06'
 - council_reference: 145/2019
   address: 18 Jutland Parade, WOODCROFT  SA  5162
   description: Shed
@@ -1514,6 +1560,14 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-25'
+- council_reference: 163/2018/2
+  address: Allot 10 Sec 247 Main Road, WILLUNGA  SA  5172
+  description: Demolition of existing grandstand and construction of new sporting
+    facility building comprising change rooms, gymnasium, store, canteen, office and
+    amenities, Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
 - council_reference: 163/2019
   address: 6 Stark Street, ALDINGA BEACH  SA  5173
   description: Shed
@@ -1660,6 +1714,20 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-29'
+- council_reference: 1849/2018/1
+  address: Allot 1 Wickham Hill Road, KUITPO  SA  5201
+  description: Single storey detached dwelling with porch, deck, carport and freestanding
+    detached shed - Stage 1, Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: 1849/2018/2
+  address: Allot 1 Wickham Hill Road, KUITPO  SA  5201
+  description: Single storey detached dwelling with porch, deck, carport and freestanding
+    detached shed - Stage 2, TAB
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
 - council_reference: 185/2019
   address: 57 Glendale Avenue, FLAGSTAFF HILL  SA  5159
   description: Verandah
@@ -1756,6 +1824,30 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-29'
+- council_reference: 1996/2017/1
+  address: 72 Young Street, REYNELLA  SA  5161
+  description: Demolition of existing dwelling and construction of 7 row dwellings
+    and 17 single storey detached dwellings with new public road, fill and excavation
+    and retaining walls - Stage 1, Row Dwelling Footings only and retaining walls
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-29'
+- council_reference: 1996/2017/2
+  address: Allot 330 Pett Street, REYNELLA  SA  5161
+  description: Demolition of existing dwelling and construction of 7 row dwellings
+    and 17 single storey detached dwellings with new public road, fill and excavation
+    and retaining walls - Stage 2, 7 Row dwellings
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-01'
+- council_reference: 1996/2017/3
+  address: Allot 330 Pett Street, REYNELLA  SA  5161
+  description: Demolition of existing dwelling and construction of 7 row dwellings
+    and 17 single storey detached dwellings with new public road, fill and excavation
+    and retaining walls, Stage 3 TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-09'
 - council_reference: 2/2019
   address: 101 Pridham Boulevard, ALDINGA BEACH  SA  5173
   description: Verandah
@@ -1780,6 +1872,27 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-29'
+- council_reference: 2017/2018/1
+  address: 38-44 Panalatinga Road, OLD REYNELLA  SA  5161
+  description: Bulky goods development including the conversion of an existing warehouse
+    building to a bulky goods outlet, signage, retaining wall, removal of one regulated
+    tree and three significant trees, additional car and bicycle parking, and re-configured
+    signalised access from  Panalatinga Road - Stage 1, Remedial Works on Existing
+    Building Only
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-07'
+- council_reference: 2017/2018/2
+  address: 38-44 Panalatinga Road, OLD REYNELLA  SA  5161
+  description: Bulky goods development including the conversion of an existing warehouse
+    building to a bulky goods outlet, signage, retaining wall, removal of one regulated
+    tree and three significant trees, additional car and bicycle parking, and re-configured
+    signalised access from Panalatinga Road, Stage 2 - Main building superstructure
+    and all works contained within property boundary (excludes any DPTI associated
+    works)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-06'
 - council_reference: 202/2019
   address: 11A Whaler Road, SEAFORD  SA  5169
   description: Carport
@@ -1846,12 +1959,33 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-30'
+- council_reference: 2113/2018/1
+  address: 107 Strout Road, MCLAREN VALE  SA  5171
+  description: Winery & cellar door, dry goods storage shed, freestanding sign and
+    rainwater tank, Stage 1 - Rainwater Tank
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-10'
+- council_reference: 2113/2018/2
+  address: 107 Strout Road, MCLAREN VALE  SA  5171
+  description: Winery & cellar door, dry goods storage shed, freestanding sign and
+    rainwater tank, Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-10'
 - council_reference: 212/2019
   address: 1 Compass Drive, SEAFORD  SA  5169
   description: Two storey dwelling with associated garage and alfresco
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-31'
+- council_reference: 2128/2017/3
+  address: 17-19 Anderson Avenue, PORT NOARLUNGA  SA  5167
+  description: Five x two-storey group dwellings with garages, driveway and landscaping
+    including demolition of existing dwelling and structures onsite, Stage 3 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-09'
 - council_reference: 213/2019
   address: 33 Ultramarine Place, MOANA  SA  5169
   description: Single storey dwelling with associated garage
@@ -1894,6 +2028,13 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-31'
+- council_reference: 2197/2004/1
+  address: 10 Donegal Road, LONSDALE  SA  5160
+  description: Version 1 for SCAP Comment - Filling of land for continued use as a
+    waste transfer depot
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-15'
 - council_reference: 22/2019
   address: 3 Oakley Crescent, ALDINGA BEACH  SA  5173
   description: Carport with roller door and pergola
@@ -1936,6 +2077,22 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-31'
+- council_reference: 2251/2017/1
+  address: 59 Esplanade, CHRISTIES BEACH  SA  5165
+  description: '2 x two storey detached dwellings - Stage 1 - House 1 (lot 60)
+
+'
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-13'
+- council_reference: 2251/2017/2
+  address: 59 Esplanade, CHRISTIES BEACH  SA  5165
+  description: 'Two x two storey detached dwellings - Stage 2, TBA
+
+'
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-09'
 - council_reference: 226/2019
   address: 20 Brenton Street, MORPHETT VALE  SA  5162
   description: Single storey dwelling with associated garage
@@ -1954,6 +2111,18 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-31'
+- council_reference: 2280/2018/1
+  address: 5 Honeypot Road, NOARLUNGA DOWNS  SA  5168
+  description: Three transportables as learning areas, Stage 1 - Civil and earthworks
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-08'
+- council_reference: 2280/2018/2
+  address: 5 Honeypot Road, NOARLUNGA DOWNS  SA  5168
+  description: Three transportables as learning areas, Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-06'
 - council_reference: 229/2019
   address: 22 Meadow Bank Way, ALDINGA BEACH  SA  5173
   description: Swimming pool and safety fence
@@ -2033,6 +2202,20 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-09'
+- council_reference: 24/2019/1
+  address: 17 Royal Court, HACKHAM  SA  5163
+  description: Single storey dwelling with associated garage and alfresco, Stage 1
+    - Footings only
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-10'
+- council_reference: 24/2019/2
+  address: 17 Royal Court, HACKHAM  SA  5163
+  description: Single storey dwelling with associated garage and alfresco, Stage 2
+    - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-10'
 - council_reference: 240/2019
   address: 58 Kenihans Road, HAPPY VALLEY  SA  5159
   description: Verandah
@@ -2069,6 +2252,27 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-01'
+- council_reference: 2451/2017/2
+  address: 8 Sismey Road, CHRISTIES BEACH  SA  5165
+  description: Single storey residential flat building comprising two dwellings with
+    associated driveway, carport and landscaping, Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-06'
+- council_reference: 2452/2013/1
+  address: 9 Peach Street, OLD REYNELLA  SA  5161
+  description: Three single storey group dwellings with carports and removal of trees,
+    Stage 1 - Dwelling 1
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-10'
+- council_reference: 2452/2013/2
+  address: 9 Peach Street, OLD REYNELLA  SA  5161
+  description: Three single storey group dwellings with carports and removal of trees,
+    Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-10'
 - council_reference: 246/2019
   address: 60 Strout Road, MCLAREN VALE  SA  5171
   description: Tree damaging activity affecting a locally listed heritage item.
@@ -2147,6 +2351,12 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-05'
+- council_reference: 2575/2018/2
+  address: 5 Honeypot Road, NOARLUNGA DOWNS  SA  5168
+  description: Maintenance shed and associated compound area - Stage 2, Full Approval
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-18'
 - council_reference: 258/2019
   address: 20 Woodhall Drive, HAPPY VALLEY  SA  5159
   description: Verandah
@@ -2159,6 +2369,12 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-06'
+- council_reference: 2599/2017/2
+  address: 53 Oakley Road, MCLAREN FLAT  SA  5171
+  description: Barrel maturation cellar & canopy, Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-06'
 - council_reference: 26/2019
   address: 13 Hudson Road, SEAFORD HEIGHTS  SA  5169
   description: Single storey dwelling with associated garage and alfresco
@@ -2291,6 +2507,18 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-08'
+- council_reference: 2796/2018/1
+  address: 32 St Andrews Terrace, WILLUNGA  SA  5172
+  description: Single storey dwelling additions - Stage 1, Footings and floor slab
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-08'
+- council_reference: 2796/2018/2
+  address: 32 St Andrews Terrace, WILLUNGA  SA  5172
+  description: Single storey dwelling additions - Stage 2 Final Consent
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-08'
 - council_reference: 28/2019
   address: 5C Emelia Jane Close, WOODCROFT  SA  5162
   description: Pergola
@@ -2352,6 +2580,20 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-07'
+- council_reference: 29/2018/1
+  address: 491 Ackland Hill Road, COROMANDEL EAST  SA  5157
+  description: To construct a single storey dwelling and garage with associated rainwater
+    tank and earthworks - Stage 1, Garage only
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-29'
+- council_reference: 29/2018/2
+  address: 491 Ackland Hill Road, COROMANDEL EAST  SA  5157
+  description: To construct a single storey dwelling and garage with associated rainwater
+    tank and earthworks, Stage 2 complete develoment
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-22'
 - council_reference: 29/2019
   address: 66 Birman Crescent, FLAGSTAFF HILL  SA  5159
   description: Shed
@@ -2439,12 +2681,30 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-12'
+- council_reference: 301/2019/1
+  address: 8 Grundy Terrace, CHRISTIES BEACH  SA  5165
+  description: 2 x two-storey semi detached dwellings - Stage 1, Footings Only
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-04'
+- council_reference: 301/2019/2
+  address: 8 Grundy Terrace, CHRISTIES BEACH  SA  5165
+  description: 2 x two-storey semi detached dwellings - Whole Dwellings
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-29'
 - council_reference: 302/2019
   address: 12A Blacker Road, ALDINGA BEACH  SA  5173
   description: Swim Spa and Safety Fence
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-07'
+- council_reference: 3029/2017/2
+  address: Allot 54 Burgess Drive, NOARLUNGA CENTRE  SA  5168
+  description: Retail fitout - Carwash, Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-06'
 - council_reference: 303/2019
   address: 17 Lacy Coral Avenue, ALDINGA BEACH  SA  5173
   description: Verandah
@@ -2469,6 +2729,12 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-06'
+- council_reference: 307/2018/2
+  address: 81 Esplanade, PORT NOARLUNGA  SA  5167
+  description: Three two-storey dwellings, Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
 - council_reference: 307/2019
   address: 11 South Park Way, MCLAREN VALE  SA  5171
   description: Verandah
@@ -2505,6 +2771,25 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-11'
+- council_reference: 3112/2018
+  address: 3 Bishop Street, WILLUNGA  SA  5172
+  description: Single storey dwelling addition (bedrooms and bathroom)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-03'
+- council_reference: 3113/2018
+  address: 1/94-98 How Road, ALDINGA BEACH  SA  5173
+  description: Verandah (attached to existing shed)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-03'
+- council_reference: 3114/2018
+  address: 252 Blewitt Springs Road, MCLAREN FLAT  SA  5171
+  description: Restaurant (shop), tasting area and micro-brewery and associated carparking,
+    footbridge and deck - non-complying
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-04'
 - council_reference: 312/2019
   address: 5 Sabella Place, NOARLUNGA DOWNS  SA  5168
   description: Verandah
@@ -2639,6 +2924,19 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-11'
+- council_reference: 3310/2017/1
+  address: 70 Trotts Road, MCLAREN FLAT  SA  5171
+  description: Single storey dwelling addition, carport and shed - Stage 1, dwelling
+    addition only
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-06'
+- council_reference: 3310/2017/2
+  address: 70 Trotts Road, MCLAREN FLAT  SA  5171
+  description: Single storey dwelling addition, carport and shed, Stage 2 - TAB
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-06'
 - council_reference: 332/2019
   address: 92 Brentwood Drive, HUNTFIELD HEIGHTS  SA  5163
   description: Shed
@@ -2689,6 +2987,13 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-07'
+- council_reference: 3399/2017/2
+  address: 12 Salvador Street, FLAGSTAFF HILL  SA  5159
+  description: Two-storey addition and internal alteration to existing two-storey
+    dwelling, Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
 - council_reference: 34/2019
   address: 14 Greengate Grove, HACKHAM  SA  5163
   description: Removal of regulated tree
@@ -3232,6 +3537,13 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-19'
+- council_reference: 42/2018/2
+  address: 30 Clement Terrace, CHRISTIES BEACH  SA  5165
+  description: Alterations and additions to existing dwelling, with new garage, garage
+    extension and shed replacement - Stage 2 Remaining works
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-10'
 - council_reference: 42/2019
   address: 6 Lincoln Cove, WOODCROFT  SA  5162
   description: Swimming Pool
@@ -3452,6 +3764,12 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-25'
+- council_reference: 452/2018/2
+  address: 197-203 Port Road, ALDINGA  SA  5173
+  description: Drive-in bottle shop and alterations to hotel, Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-06'
 - council_reference: 452/2019
   address: 19 Teal Avenue, MOANA  SA  5169
   description: Detached dwelling
@@ -4375,6 +4693,13 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-12'
+- council_reference: 589/2017/2
+  address: 79 Ernest Crescent, HAPPY VALLEY  SA  5159
+  description: Two storey dwelling additions, swimming pool and safety fence, Stage
+    2 - TBA (swimming pool)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-09'
 - council_reference: 589/2019
   address: 72 Clarendon Road, CHANDLERS HILL  SA  5159
   description: Shed
@@ -4467,12 +4792,78 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-13'
+- council_reference: 6001/2019
+  address: 4 Clement Terrace, CHRISTIES BEACH  SA  5165
+  description: Community Title Land Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-22'
+- council_reference: 6002/2019
+  address: 9 Tara Street, O'SULLIVAN BEACH  SA  5166
+  description: Community Title Land Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-01'
+- council_reference: 6003/2019
+  address: 12-14 Witton Road, PORT NOARLUNGA  SA  5167
+  description: Land Division - Community Title (1 into 3)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-26'
+- council_reference: 6004/2019
+  address: 7 Klar Avenue, DARLINGTON  SA  5047
+  description: Land Division - Community Title (1 into 4)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-01'
+- council_reference: 6005/2019
+  address: 402 Esplanade, MOANA  SA  5169
+  description: Land Division - Community Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-06'
+- council_reference: 6006/2019
+  address: 21 Wakefield Avenue, MORPHETT VALE  SA  5162
+  description: Community Title 1 into 2
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-18'
+- council_reference: 6007/2019
+  address: 15 Beatty Avenue, CHRISTIES BEACH  SA  5165
+  description: Land division (1 into 4)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-29'
+- council_reference: 6008/2019
+  address: 14 O'Halloran Lane, HACKHAM  SA  5163
+  description: Land Division - Community Title (1 into 4)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-30'
+- council_reference: 6009/2019
+  address: 211 Black Road, FLAGSTAFF HILL  SA  5159
+  description: Land Division - Community Title (1 into 10)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-16'
 - council_reference: 601/2019
   address: 3 Barnview Court, MORPHETT VALE  SA  5162
   description: Shed (replacement)
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-13'
+- council_reference: 6010/2019
+  address: 4 Strand Street, PORT WILLUNGA  SA  5173
+  description: Land division (boundary realignment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-04'
+- council_reference: 6011/2019
+  address: 20-22 St Georges Street, WILLUNGA  SA  5172
+  description: Land Division - Community Title
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
 - council_reference: 602/2019
   address: 6 Alexander Street, SELLICKS BEACH  SA  5174
   description: Demolish existing garage, replace with shed and carport forward on
@@ -4492,6 +4883,13 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-13'
+- council_reference: 6043/2018
+  address: 22 Maturin Avenue, CHRISTIES BEACH  SA  5165
+  description: Community Title Land Division (2 into 8) and construction of 8 x two-storey
+    group dwellings with associated common driveway and landscaping
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-04'
 - council_reference: 605/2019
   address: 38 Standfield Road, ALDINGA BEACH  SA  5173
   description: Carport
@@ -5126,6 +5524,13 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-04'
+- council_reference: 70/2018/2
+  address: 110 Little Road, WHITES VALLEY  SA  5172
+  description: Additions and alterations to existing dwelling and construction of
+    new garage and five rainwater tanks, Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
 - council_reference: 70/2019
   address: 17 Shephard Road, ALDINGA BEACH  SA  5173
   description: Carport
@@ -5138,6 +5543,62 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-26'
+- council_reference: 7001/2019
+  address: 160 Plains Road, ALDINGA  SA  5173
+  description: The installation of solar Photovoltaic arrays and associated infrastructure
+    including battery storage equipment along with required earthworks for construction
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-15'
+- council_reference: 7002/2019
+  address: 48 Martins Road, MCLAREN VALE  SA  5171
+  description: Variation to DA 145/E001/2018 (145/9001/2018)–  Three metre high retaining
+    wall and two x 46KL retention tanks.
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-17'
+- council_reference: 7003/2019
+  address: Allot 171 Esplanade, PORT NOARLUNGA  SA  5167
+  description: Replacement of stairs at Port Noarlunga Jetty
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-31'
+- council_reference: 7004/2019
+  address: Bakewell Drive, SEAFORD HEIGHTS
+  description: Construction of a 600ML treated water storage dam with associated bulk
+    earthworks, stormwater detention basin, inlet- outlet pipe, landscape screening,
+    security fencng and signage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-05'
+- council_reference: 7005/2019
+  address: Allot 12 Chrysler Road, LONSDALE  SA  5160
+  description: Construction of solar farm and associated infrastructure for the purposes
+    of electricity generation
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-26'
+- council_reference: 7006/2019
+  address: Allot 2 Quinliven Road, ALDINGA  SA  5173
+  description: Government Land Division - (1 into 2 - dividing existing allotment
+    into two for the development of a new government school)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-08'
+- council_reference: 7007/2019
+  address: Allot 4 Sec 717 Panalatinga Road, ONKAPARINGA HILLS  SA  5163
+  description: The installation of solar Photovoltaic arrays and associated infrastructure
+    including battery storage equipment, along with required earthworks.
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
+- council_reference: 7008/2019
+  address: Allot 50 Brian Road, LONSDALE  SA  5160
+  description: Demolition of existing SES buildings for 2 x new operations buildings
+    and a new shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
 - council_reference: 701/2019
   address: 12 Kalev Court, HAPPY VALLEY  SA  5159
   description: Single storey detached dwelling with double garage and terrace
@@ -5262,6 +5723,15 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-27'
+- council_reference: 72/2018/2
+  address: 16 Chaff Mill Road, SELLICKS HILL  SA  5174
+  description: To demolish an existing building (former cattery) and to make alterations
+    and additions to an existing single storey detached dwelling in the form of a
+    single storey addition, amendments to the roof form and construction of a carport
+    and swimming pool with pool fence, Stage 2 - TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
 - council_reference: 72/2019
   address: 1/37 Melsetter Road, HUNTFIELD HEIGHTS  SA  5163
   description: Removal of Significant Tree - Eucalyptus sideroxylon (Iron Bark) due
@@ -5535,6 +6005,18 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-03'
+- council_reference: 76/2019/1
+  address: 151 Esplanade, PORT NOARLUNGA SOUTH  SA  5167
+  description: 'Two storey detached dwelling  - Stage 1: Footings and Siteworks only'
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-25'
+- council_reference: 76/2019/2
+  address: 151 Esplanade, PORT NOARLUNGA SOUTH  SA  5167
+  description: Two storey detached dwelling - Stage 2 Final
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-13'
 - council_reference: 760/2019
   address: 52 Black Road, FLAGSTAFF HILL  SA  5159
   description: Replace existing verandah
@@ -5807,6 +6289,20 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-03'
+- council_reference: 80/2017/1
+  address: 6/136-140 Beach Road, CHRISTIES BEACH  SA  5165
+  description: Change of use from consulting rooms to training gym with associated
+    signage, Stage 1 - Excluding signage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-21'
+- council_reference: 80/2017/2
+  address: 6/136-140 Beach Road, CHRISTIES BEACH  SA  5165
+  description: Change of use from consulting rooms to training gym with associated
+    signage, Stage2 - Signage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-08'
 - council_reference: 80/2019
   address: 48-50 High Street, WILLUNGA  SA  5172
   description: Swimming Pool and safety fence
@@ -5819,42 +6315,430 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-09'
+- council_reference: 8001/2019
+  address: 1/51-85 Morrow Road, O'SULLIVAN BEACH  SA  5166
+  description: Torrens Title Land Division (1 into 2) and alterations to existing
+    buildings
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-14'
+- council_reference: 8002/2019
+  address: 30A Dover Street, ALDINGA BEACH  SA  5173
+  description: Torrens Title Land Division (boundary realignment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-18'
+- council_reference: 8003/2019
+  address: 19 Vernon Crescent, MASLIN BEACH  SA  5170
+  description: Torrens Title Land Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-23'
+- council_reference: 8004/2019
+  address: 64 Sherriff Road, MASLIN BEACH  SA  5170
+  description: Torrens Title Land Division (Boundary Realignment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-25'
+- council_reference: 8005/2019
+  address: 9 O'Halloran Road, CHRISTIES BEACH  SA  5165
+  description: Torrens Title Land Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-29'
+- council_reference: 8006/2019
+  address: 69 Compass Drive, SEAFORD  SA  5169
+  description: Torrens Title Land Division (1 into 4) and the construction of 4 x
+    two storey row dwellings with associated garaging.
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-30'
+- council_reference: 8007/2019
+  address: 33 Aldersey Street, MCLAREN VALE  SA  5171
+  description: Torrens Title Land Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-30'
+- council_reference: 8008/2019
+  address: 43 The Strand, REYNELLA  SA  5161
+  description: Torrens Title Land Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-01'
+- council_reference: 8009/2019
+  address: 18 Windsong Court, MORPHETT VALE  SA  5162
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-04'
 - council_reference: 801/2019
   address: 1475 Main South Road, DARLINGTON  SA  5047
   description: Signage
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-11'
+- council_reference: 8010/2019
+  address: 18 Ocean Street, ALDINGA BEACH  SA  5173
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-04'
+- council_reference: 8011/2019
+  address: 1 Edwina Drive, MORPHETT VALE  SA  5162
+  description: Land Division - Torrens Title (1 into 3)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-05'
+- council_reference: 8012/2019
+  address: 19 Sherriffs Road, LONSDALE  SA  5160
+  description: Land Division (boundary realignment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-20'
+- council_reference: 8013/2019
+  address: 21-29 Highland Avenue, OLD REYNELLA  SA  5161
+  description: Land Division (1 into 7) and 7x single storey row dwellings
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-20'
+- council_reference: 8014/2019
+  address: 19 Playford Drive, MORPHETT VALE  SA  5162
+  description: Land Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-20'
+- council_reference: 8015/2019
+  address: 11 Castle Road, CHRISTIES BEACH  SA  5165
+  description: Land Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-20'
+- council_reference: 8016/2019
+  address: 4 Holmes Street, OLD NOARLUNGA  SA  5168
+  description: Land Division (boundary realignment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-20'
+- council_reference: 8017/2019
+  address: 165 Turners Gully Road, CLARENDON  SA  5157
+  description: Land Division (boundary realignment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-20'
+- council_reference: 8018/2019
+  address: 53 Homestead Drive, ABERFOYLE PARK  SA  5159
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-01'
+- council_reference: 8019/2019
+  address: 22 Candover Crescent, HUNTFIELD HEIGHTS  SA  5163
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-22'
 - council_reference: 802/2019
   address: 6 Dufferin Lane, SEAFORD MEADOWS  SA  5169
   description: Single storey dwelling with garage
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-09'
+- council_reference: 8020/2019
+  address: 23 Roopena Street, O'SULLIVAN BEACH  SA  5166
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-01'
+- council_reference: 8021/2019
+  address: 6 La Salle Court, HAPPY VALLEY  SA  5159
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-22'
+- council_reference: 8023/2019
+  address: 18-20 Lancing Court, HUNTFIELD HEIGHTS  SA  5163
+  description: Land Division - Torrens Title (Boundary Realignment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-01'
+- council_reference: 8024/2019
+  address: 240-258 Aldinga Beach Road, ALDINGA BEACH  SA  5173
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-06'
+- council_reference: 8025/2019
+  address: 2 Corro Street, ABERFOYLE PARK  SA  5159
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-06'
+- council_reference: 8026/2019
+  address: 46 Grundy Terrace, CHRISTIES BEACH  SA  5165
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-06'
+- council_reference: 8027/2019
+  address: Allot 903 Francis Street, SELLICKS BEACH  SA  5174
+  description: Land Division - Torrens Title (Removal of Community Plan CP22821 and
+    convert to Torrens 156 to 156)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-21'
+- council_reference: 8028/2019
+  address: 25 Irving Road, ALDINGA BEACH  SA  5173
+  description: Land Division - Torrens Title (1 into 3)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-05'
+- council_reference: 8029/2019
+  address: 262 Seaford Road, SEAFORD  SA  5169
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-06'
 - council_reference: 803/2019
   address: 19 Playford Drive, MORPHETT VALE  SA  5162
   description: Demolition of dwelling and outbuildings
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-10'
+- council_reference: 8031/2019
+  address: 55-57 Alexander Street, SELLICKS BEACH  SA  5174
+  description: Land Division (boundary realignment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-22'
+- council_reference: 8032/2019
+  address: 18 Redcraze Street, ABERFOYLE PARK  SA  5159
+  description: Land Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-22'
+- council_reference: 8033/2019
+  address: 40 Selway Terrace, O'SULLIVAN BEACH  SA  5166
+  description: Land division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-14'
+- council_reference: 8034/2019
+  address: 10 Methodist Street, WILLUNGA  SA  5172
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-19'
+- council_reference: 8035/2019
+  address: 52-54 Valley View Drive, MCLAREN VALE  SA  5171
+  description: Land Division - Torrens Title (Boundary Realignment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-21'
+- council_reference: 8036/2019
+  address: 42-48 Elizabeth Street, OLD NOARLUNGA  SA  5168
+  description: Land Division - Torrens Title (1 into 3)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-14'
+- council_reference: 8037/2019
+  address: 112 Wheatsheaf Road, MORPHETT VALE  SA  5162
+  description: Land Division - Torrens Title (Boundary Realignment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-26'
+- council_reference: 8038/2019
+  address: 1/11 Waddikee Road, LONSDALE  SA  5160
+  description: Land Division (boundary re-alignment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-02'
 - council_reference: 804/2019
   address: 577 California Road, TATACHILLA  SA  5171
   description: Poroposed additions and renovations to dwelling (Variation to DA 1755/2018)
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-09'
+- council_reference: 8040/2019
+  address: 8 Stark Street, ALDINGA BEACH  SA  5173
+  description: Land Division  (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-04'
+- council_reference: 8041/2019
+  address: 15 Hyland Avenue, DARLINGTON  SA  5047
+  description: Land division (1 into 4), demolition of existing dwelling and construction
+    of four x two storey row dwellings with garages and associated retaining walls
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-03'
+- council_reference: 8042/2019
+  address: 4 Anselm Street, CHRISTIE DOWNS  SA  5164
+  description: 'Land Division - Torrens Title (1 into 2)
+
+'
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-10'
+- council_reference: 8043/2019
+  address: 45 Oakridge Road, ABERFOYLE PARK  SA  5159
+  description: Land Division - Torrens Title (2 into 4)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-08'
+- council_reference: 8044/2019
+  address: 269 Esplanade, SEAFORD  SA  5169
+  description: Land Division - Torrens Title (1 into 3) and the construction of 3
+    x two-storey dwellings with associated garages.
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-09'
+- council_reference: 8045/2019
+  address: 3 Doley Place, HAPPY VALLEY  SA  5159
+  description: Land Division - Torrens Title (2 into 3)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-08'
+- council_reference: 8046/2019
+  address: 10 Randell Road, MORPHETT VALE  SA  5162
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-08'
+- council_reference: 8047/2019
+  address: 2 Jennifer Drive, MORPHETT VALE  SA  5162
+  description: Land Division - Torrens Title (1 into 3)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-09'
+- council_reference: 8048/2019
+  address: 42 Thames Drive, REYNELLA  SA  5161
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-12'
+- council_reference: 8049/2019
+  address: 2 Bayford Rise, MORPHETT VALE  SA  5162
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-12'
 - council_reference: 805/2019
   address: 5 George Parade, SELLICKS BEACH  SA  5174
   description: Shipping Container (2430w x 6050L x 2580h)
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-10'
+- council_reference: 8050/2019
+  address: 8 Klar Avenue, DARLINGTON  SA  5047
+  description: Land Division - 1 into 2
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-30'
+- council_reference: 8051/2019
+  address: 56 Malone Street, MORPHETT VALE  SA  5162
+  description: Land Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-23'
+- council_reference: 8052/2018/1
+  address: 75 Black Road, FLAGSTAFF HILL  SA  5159
+  description: Torrens Title Land Division (1 into 2) - Stage 1, land division only
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-07'
+- council_reference: 8052/2018/2
+  address: 75 Black Road, FLAGSTAFF HILL  SA  5159
+  description: Torrens Title Land Division (1 into 2), Stage 2 -  Construction of
+    two two-storey semi-detached dwellings with driveways and landscaping.
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-22'
+- council_reference: 8052/2019
+  address: Allot 501 Commercial Road, PORT NOARLUNGA SOUTH  SA  5167
+  description: Land Division - Torrens Title (1 into 706)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-01'
+- council_reference: 8053/2019
+  address: 9 Coorumbena Crescent, MORPHETT VALE  SA  5162
+  description: Land division (1 in to 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-18'
+- council_reference: 8054/2019
+  address: 25 Grandview Avenue, MASLIN BEACH  SA  5170
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-29'
+- council_reference: 8055/2019
+  address: 14 O'Halloran Lane, HACKHAM  SA  5163
+  description: Land Division - Torrens Title ( 1into 4)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-30'
+- council_reference: 8056/2019
+  address: 23 Fletcher Drive, CHRISTIES BEACH  SA  5165
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-29'
+- council_reference: 8057/2019
+  address: 24 Nelson Street, PORT NOARLUNGA SOUTH  SA  5167
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-06'
+- council_reference: 8058/2019
+  address: 24 Shelly Avenue, PORT WILLUNGA  SA  5173
+  description: Land Division - Torrens Title (Boundary Realginment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-09'
+- council_reference: 8059/2019
+  address: 25 St Judes Street, WILLUNGA  SA  5172
+  description: Land Division - Torrens Title (2 into 3)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
 - council_reference: 806/2019
   address: Unit 1/1 Cheeseman Grove, WILLUNGA  SA  5172
   description: Convert existing garage to habitable room.
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-09'
+- council_reference: 8060/2019
+  address: 84 Penneys Hill Road, HACKHAM  SA  5163
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: 8061/2019
+  address: 20-22 St Georges Street, WILLUNGA  SA  5172
+  description: Land Division - Torrens Title (Boundary Realignment)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 8062/2019
+  address: 6 Holmes Court, FLAGSTAFF HILL  SA  5159
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+- council_reference: 8063/2019
+  address: 29 Kym Street, PORT NOARLUNGA SOUTH  SA  5167
+  description: 'Land Division - Torrens Title (1 into 2)
+
+'
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+- council_reference: 8064/2019
+  address: 1 Barnabas Crescent, CHRISTIE DOWNS  SA  5164
+  description: Land Division - Torrens Title (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
 - council_reference: 807/2019
   address: 52 Black Road, FLAGSTAFF HILL  SA  5159
   description: Removal of regulated Eucalyptus melliodora (Yellow Box) tree
@@ -5873,6 +6757,25 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-11'
+- council_reference: 81/2018/1
+  address: 34 Brookside Road, FLAGSTAFF HILL  SA  5159
+  description: Two storey dwelling with garage - Stage 1, retaining walls, sub-structure
+    and civil works
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-01'
+- council_reference: 81/2018/2
+  address: 34 Brookside Road, FLAGSTAFF HILL  SA  5159
+  description: Two storey dwelling with garage, Stage 2 - Super structure works
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-07'
+- council_reference: 81/2018/3
+  address: 34 Brookside Road, FLAGSTAFF HILL  SA  5159
+  description: Two storey dwelling with garage, Stage 3 TAB
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
 - council_reference: 81/2019
   address: 39 Vintage Avenue, HACKHAM  SA  5163
   description: Carport
@@ -5927,12 +6830,31 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-10'
+- council_reference: 8177/2018
+  address: 11 Selway Terrace, O'SULLIVAN BEACH  SA  5166
+  description: Torrens Title Land Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-02'
+- council_reference: 8178/2018
+  address: 38 Murray Road, PORT NOARLUNGA  SA  5167
+  description: Torrens Title Land Division (1 into 2)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-02'
 - council_reference: 818/2019
   address: 309 Seaview Road, MCLAREN VALE  SA  5171
   description: Verandah
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-10'
+- council_reference: 8182/2017/1
+  address: 100-102 Reynell Road, WOODCROFT  SA  5162
+  description: Torrens Title Land Division (1 into 4) - Stage 1, Final Plan varied
+    1 into 3
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-05'
 - council_reference: 819/2019
   address: 11 Seaford Road, SEAFORD MEADOWS  SA  5169
   description: Erect pylon sign at the front of Seaford Home Maker Centre
@@ -6134,6 +7056,14 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-12'
+- council_reference: 849/2017/2
+  address: Allot 10 Sec 247 Main Road, WILLUNGA  SA  5172
+  description: Staged alterations and additions to recreation complex including construction
+    of new entrance, change rooms, viewing areas and verandah with relocation of war
+    memorial, Stage 2 TBA
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-09'
 - council_reference: 849/2019
   address: 20 Crossing Road, ABERFOYLE PARK  SA  5159
   description: Verandah and carport
@@ -6537,6 +7467,34 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-24'
+- council_reference: 909/2006/18
+  address: 9 Emerald Boulevard, ALDINGA BEACH  SA  5173
+  description: Retirement Village consisting of 170 dwellings, associated Community
+    Centre and ancillary facilities - Stage 19A, dwelling 90, footings only
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-22'
+- council_reference: 909/2006/19
+  address: Unit 1/9 Emerald Boulevard, ALDINGA BEACH  SA  5173
+  description: Retirement Village consisting of 170 dwellings, associated Community
+    Centre and ancillary facilities - Stage 19B, Dwelling 92, 93 and 94 Footings only
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-22'
+- council_reference: 909/2006/20
+  address: Unit 1/9 Emerald Boulevard, ALDINGA BEACH  SA  5173
+  description: Retirement Village consisting of 170 dwellings, associated Community
+    Centre and ancillary facilities - Stage 19C - Dwelling 90 only
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-29'
+- council_reference: 909/2006/21
+  address: Unit 1/9 Emerald Boulevard, ALDINGA BEACH  SA  5173
+  description: Retirement Village consisting of 170 dwellings, associated Community
+    Centre and ancillary facilities - Stage 19D - Dwelling 92-94 only
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-17'
 - council_reference: 909/2019
   address: Unit 1/66 Murray Road, PORT NOARLUNGA  SA  5167
   description: Swimming Pool, Safety Fence and Pergola
