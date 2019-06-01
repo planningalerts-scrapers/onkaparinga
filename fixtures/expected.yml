@@ -87,7 +87,7 @@
   date_received: '2019-01-18'
 - council_reference: 1010/2019
   address: 14A Roy Terrace, CHRISTIES BEACH  SA  5165
-  description: Single storey dwelling
+  description: Single storey detached dwelling
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-13'
@@ -165,7 +165,8 @@
   date_received: '2019-05-10'
 - council_reference: 1022/2019
   address: 11 Hyland Avenue, DARLINGTON  SA  5047
-  description: Variation to Unit 5 in DA 145/1096/2015
+  description: Variation to 5 units in DA 145/1096/2015 - External cladding & roof
+    framing
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-08'
@@ -177,7 +178,7 @@
   date_received: '2019-05-08'
 - council_reference: 1024/2019
   address: 13 Kingston Circuit, SEAFORD RISE  SA  5169
-  description: Granny Flat and second floor rumpus room
+  description: Variation to DA 145/2276/2017
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-09'
@@ -219,7 +220,7 @@
   date_received: '2019-01-20'
 - council_reference: 1030/2019
   address: 10 Sedunary Road, MORPHETT VALE  SA  5162
-  description: Carport Alterations and Additions
+  description: Freestanding carport
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-10'
@@ -236,48 +237,438 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-11'
+- council_reference: 1033/2019
+  address: 32 Goyder Road, SEAFORD HEIGHTS  SA  5169
+  description: Dwelling
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
 - council_reference: 1034/2019
   address: 87 Hicks Hill Road, CHERRY GARDENS  SA  5157
   description: New fence enclosure and associated work to an existing grave site
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-10'
+- council_reference: 1035/2019
+  address: 7 Fidge Street, ALDINGA BEACH  SA  5173
+  description: Single storey detached dwelling with garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
+- council_reference: 1036/2019
+  address: 89A Reynell Road, REYNELLA EAST  SA  5161
+  description: Detached dwelling
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
 - council_reference: 1037/2019
   address: 40 Edith Street, MORPHETT VALE  SA  5162
   description: Shed
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-13'
+- council_reference: 1039/2019
+  address: 3/44 Chapman Road, HACKHAM  SA  5163
+  description: Change of use (metal fabrication)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
 - council_reference: 104/2019
   address: 21 Debham Street, MORPHETT VALE  SA  5162
   description: Verandah
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-21'
+- council_reference: 1040/2019
+  address: 42 Adey Road, ALDINGA  SA  5173
+  description: Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-12'
+- council_reference: 1041/2019
+  address: 11 Fredrick Drive, WOODCROFT  SA  5162
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: 1042/2019
+  address: 2 Goulding Grove, NOARLUNGA DOWNS  SA  5168
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
+- council_reference: 1043/2019
+  address: 23A Dianne Street, HAPPY VALLEY  SA  5159
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
+- council_reference: 1044/2019
+  address: 5 Corella Avenue, CHANDLERS HILL  SA  5159
+  description: Pergola, decking and pool
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: 1045/2019
+  address: 30 Nalya Tarn, TATACHILLA  SA  5171
+  description: Market garden
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: 1046/2019
+  address: 18 McMahon Road, MORPHETT VALE  SA  5162
+  description: Roof replacement (from tile to iron)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: 1047/2019
+  address: 13 Panorama Drive, ABERFOYLE PARK  SA  5159
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-12'
+- council_reference: 1048/2019
+  address: 49 Summer Street, MCLAREN FLAT  SA  5171
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
+- council_reference: 1049/2019
+  address: 13 William Street, PORT WILLUNGA  SA  5173
+  description: Two storey dwelling
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
 - council_reference: 105/2019
   address: 151 Esplanade, PORT NOARLUNGA SOUTH  SA  5167
   description: Shed
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-22'
+- council_reference: 1050/2019
+  address: 13 Virgo Parade, SELLICKS BEACH  SA  5174
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: 1051/2019
+  address: 3 Burgess Court, MORPHETT VALE  SA  5162
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: 1052/2019
+  address: 45 Beachway Avenue, MASLIN BEACH  SA  5170
+  description: Deck and balcony
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: 1053/2019
+  address: 27 Belair Avenue, PORT WILLUNGA  SA  5173
+  description: Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-22'
+- council_reference: 1054/2019
+  address: 562-564 States Road, ONKAPARINGA HILLS  SA  5163
+  description: Single storey detached dwelling with double garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: 1055/2019
+  address: 103 Albany Avenue, PORT NOARLUNGA SOUTH  SA  5167
+  description: Two storey dwelling with alfresco and garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
+- council_reference: 1056/2019
+  address: 1 Michael Street, COROMANDEL VALLEY  SA  5051
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: 1057/2019
+  address: 77 Mast Avenue, SEAFORD MEADOWS  SA  5169
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: 1058/2019
+  address: 38 Oldborough Drive, ONKAPARINGA HILLS  SA  5163
+  description: Single storey dwelling addition
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: 1059/2019
+  address: 177 Pimpala Road, WOODCROFT  SA  5162
+  description: Single storey dwelling with associated garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
 - council_reference: 106/2019
   address: 1/114-116 Main Road, MCLAREN VALE  SA  5171
   description: Conversion of existng shop to office
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-21'
+- council_reference: 1060/2019
+  address: 4 Powers Avenue, MORPHETT VALE  SA  5162
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: 1061/2019
+  address: 221 Seaford Road, SEAFORD  SA  5169
+  description: Swimming pool and fence
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+- council_reference: 1062/2019
+  address: 4 Anselm Street, CHRISTIE DOWNS  SA  5164
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+- council_reference: 1063/2019
+  address: 24 Cambridge Street, PORT NOARLUNGA SOUTH  SA  5167
+  description: Fibreglass swimming pool and safety fence
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+- council_reference: 1064/2019
+  address: 28 Sawter Lane, SEAFORD HEIGHTS  SA  5169
+  description: Single storey detached dwelling with double garage and verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+- council_reference: 1065/2019
+  address: 23 Everton Road, SEAFORD HEIGHTS  SA  5169
+  description: Single storey detached dwelling with single garage and alfresco
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+- council_reference: 1066/2019
+  address: 17 Grosvenor Road, ALDINGA BEACH  SA  5173
+  description: Single storey detached dwelling with single garage and verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+- council_reference: 1067/2019
+  address: 17 Penzance Avenue, CHRISTIES BEACH  SA  5165
+  description: Variation to DA 145/6051/2017 - Dwellings on lots 2 & 3 now single
+    storey, external and internal changes to all 3 dwellings
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: 1068/2019
+  address: 360 Main Road, COROMANDEL VALLEY  SA  5051
+  description: Landscape paving and associated drainage installation
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: 1069/2019
+  address: 7A Vynland Drive, FLAGSTAFF HILL  SA  5159
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
 - council_reference: 107/2019
   address: 372 Main South Road, MORPHETT VALE  SA  5162
   description: Demolition of all structures onsite
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-21'
+- council_reference: 1070/2019
+  address: Shop 50 Kenihans Road, HAPPY VALLEY  SA  5159
+  description: Installation of Solar PV modules
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: 1071/2019
+  address: 2 Tiller Drive, SEAFORD  SA  5169
+  description: Change of use from dwelling to shop (barbershop) and associated carparks
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: 1072/2019
+  address: 2/6-20 Taylors Avenue, MORPHETT VALE  SA  5162
+  description: change of use of shop to shop and consulting rooms (medical centre)
+    - use of less than 100 sq m of floor area of consulting rooms temporary 12 month
+    approval.
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: 1073/2019
+  address: Allot 1 Doctors Road, HACKHAM  SA  5163
+  description: Convert storage area into coolroom
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+- council_reference: 1074/2019
+  address: 23 Anglesea Lane, SEAFORD RISE  SA  5169
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1075/2019
+  address: 1/796 Main Road, MCLAREN VALE  SA  5171
+  description: Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+- council_reference: 1076/2019
+  address: 28 Zephyr Terrace, PORT WILLUNGA  SA  5173
+  description: Swimming pool and safety fence
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1077/2019
+  address: 27 Banks Road, WOODCROFT  SA  5162
+  description: Swimming Pool
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+- council_reference: 1078/2019
+  address: 51 Quinliven Road, PORT WILLUNGA  SA  5173
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-18'
+- council_reference: 1079/2019
+  address: 24 Vanstone Avenue, MORPHETT VALE  SA  5162
+  description: Shade structure over existing playground
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1080/2019
+  address: 62 Victor Harbor Road, OLD NOARLUNGA  SA  5168
+  description: Variation to Condition 7 of DA 145/3163/2016 to extend trading hours
+    from 9pm to 11pm
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1081/2019
+  address: 4 Lusitano Court, WOODCROFT  SA  5162
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1082/2019
+  address: 7/47 Wickham Road, HAPPY VALLEY  SA  5159
+  description: Single storey detached dwelling with associated garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1083/2019
+  address: 21 Aldinga Road, WILLUNGA  SA  5172
+  description: Demolition of northern and southern addition to existing house including
+    outdoor entertainment area and garden shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1084/2019
+  address: Goulding Grove, NOARLUNGA DOWNS
+  description: Removal of regulated tree - Flat Topped Yate (Eucalyptus occidentalis)
+    due to past failures and the unacceptable risk to public safety
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1085/2019
+  address: 37 Brunato Road, BLEWITT SPRINGS  SA  5171
+  description: Two-storey detached dwelling, swimming pool and retaining walls- non-complying
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1086/2019
+  address: 13 Kingston Circuit, SEAFORD RISE  SA  5169
+  description: "(Withdrawn) Variation to DA 145/2276/2017"
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: 1087/2019
+  address: 18 Arcadia Crescent, SELLICKS BEACH  SA  5174
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-18'
+- council_reference: 1088/2019
+  address: 22 Solero Avenue, REYNELLA EAST  SA  5161
+  description: Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1089/2019
+  address: Pt Allot 108 Commercial Road, SEAFORD  SA  5169
+  description: Shop fit out - Tenancy 39 - Yiros Boss
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
 - council_reference: 109/2019
   address: 26 Queens Way, WOODCROFT  SA  5162
   description: Verandah
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-22'
+- council_reference: 1090/2019
+  address: 16 St Georges Street, WILLUNGA  SA  5172
+  description: Restoration of upstairs windows of Quarryman's cottage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1091/2019
+  address: 281 Main Road, MCLAREN VALE  SA  5171
+  description: Tree removal - Red Gum
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1092/2019
+  address: Allot 229 Germaine Street, MORPHETT VALE  SA  5162
+  description: Shipping container
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1093/2019
+  address: 5 Lorikeet Court, HAPPY VALLEY  SA  5159
+  description: Alterations & Additions including verandah and portico
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1094/2019
+  address: 164 Bangor Road, WILLUNGA SOUTH  SA  5172
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-18'
+- council_reference: 1095/2019
+  address: 26 Evergreen Court, ALDINGA BEACH  SA  5173
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-18'
+- council_reference: 1096/2019
+  address: 11 Everton Road, SEAFORD HEIGHTS  SA  5169
+  description: Single storey detached dwelling
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+- council_reference: 1097/2019
+  address: 15 Brenton Street, MORPHETT VALE  SA  5162
+  description: Single storey detached dwelling with double garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1098/2019
+  address: 102 Mount Bold Road, KANGARILLA  SA  5157
+  description: Regulated tree removal
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-19'
+- council_reference: 1099/2019
+  address: 6 Teal Avenue, MOANA  SA  5169
+  description: Detached dwelling
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
 - council_reference: 11/2019
   address: 35 Whittaker Avenue, OLD REYNELLA  SA  5161
   description: Shed
@@ -290,54 +681,567 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-21'
+- council_reference: 1100/2019
+  address: 7 Calomba Crescent, HAPPY VALLEY  SA  5159
+  description: Single storey detached dwelling with double garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1101/2019
+  address: 81 Albany Avenue, PORT NOARLUNGA SOUTH  SA  5167
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-19'
+- council_reference: 1102/2019
+  address: 8A Galton Court, MORPHETT VALE  SA  5162
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-19'
+- council_reference: 1103/2019
+  address: 5 Oakley Crescent, ALDINGA BEACH  SA  5173
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: 1104/2019
+  address: 35 York Drive, FLAGSTAFF HILL  SA  5159
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: 1105/2019
+  address: 20 Nicholas Walk, ABERFOYLE PARK  SA  5159
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: 1106/2019
+  address: 8 Chappel Avenue, MORPHETT VALE  SA  5162
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: 1107/2019
+  address: 14 Taunton Parade, CHRISTIES BEACH  SA  5165
+  description: Demolition of dwelling and outbuildings
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: 1108/2019
+  address: 11 Durant Avenue, MORPHETT VALE  SA  5162
+  description: Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1109/2019
+  address: 33 Cambridge Street, PORT NOARLUNGA SOUTH  SA  5167
+  description: Variation to Development Application 145/1189/2018 (addition of external
+    staircase to existing balcony) - Retrospective
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
 - council_reference: 111/2019
   address: 182 Olivers Road, MCLAREN VALE  SA  5171
   description: Garage
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-21'
+- council_reference: 1110/2019
+  address: 2 Jetty Road, PORT WILLUNGA  SA  5173
+  description: Demolition of dwelling
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: 1111/2019
+  address: 193A States Road, MORPHETT VALE  SA  5162
+  description: Single storey detached dwelling and single garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: 1112/2019
+  address: 21 Aldinga Road, WILLUNGA  SA  5172
+  description: Single storey dwelling addition and garage - change of use to residential
+    and tourist accommodation
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1113/2019
+  address: 22 Mount Malvern Road, CHANDLERS HILL  SA  5159
+  description: Internal modification to create new master bedroom, ensuite and robe
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: 1114/2019
+  address: 69 Warners Road, MCLAREN VALE  SA  5171
+  description: Variation to DA 145/1240/2018 (addition of verandah)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: 1115/2019
+  address: 24 Tangier Boulevard, SELLICKS BEACH  SA  5174
+  description: Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+- council_reference: 1116/2019
+  address: 183 Commercial Road, PORT NOARLUNGA SOUTH  SA  5167
+  description: Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+- council_reference: 1117/2019
+  address: 446-446A Main Road, COROMANDEL VALLEY  SA  5051
+  description: Demolition of existing buildings, garages, carport, bridge and selected
+    vegetation
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+- council_reference: 1118/2019
+  address: 24 Barbados Drive, SEAFORD RISE  SA  5169
+  description: Swimming pool and safety fence
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+- council_reference: 1119/2019
+  address: 34 Lawson Road, HAPPY VALLEY  SA  5159
+  description: Carport conversion to habitable room
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
 - council_reference: 112/2019
   address: 4 Crisp Street, ALDINGA BEACH  SA  5173
   description: Single storey dwelling with associated garage and alfresco
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-22'
+- council_reference: 1120/2019
+  address: 8 Teal Avenue, MOANA  SA  5169
+  description: Detached dwelling
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: 1121/2019
+  address: 5 Santa Catalina Crescent, SEAFORD RISE  SA  5169
+  description: Verandah and carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: 1122/2019
+  address: 29 Odessa Drive, WOODCROFT  SA  5162
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: 1123/2019
+  address: 58 Brenton Street, MORPHETT VALE  SA  5162
+  description: Single storey dwelling with garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: 1124/2019
+  address: 94 Brenton Street, MORPHETT VALE  SA  5162
+  description: Single storey dwelling with garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: 1125/2019
+  address: Allot 6036 Trident Road, SEAFORD MEADOWS  SA  5169
+  description: Single storey detached dwelling
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: 1126/2019
+  address: 9 Pitcher Place, WOODCROFT  SA  5162
+  description: Single storey dwelling with garage and associated retaining walls located
+    along both the northern and southern property boundaries measuring up to 1.5m
+    in height
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: 1127/2019
+  address: 11 South Street, PORT WILLUNGA  SA  5173
+  description: Dwelling addition
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: 1128/2019
+  address: 27 Castle Road, CHRISTIES BEACH  SA  5165
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: 1129/2019
+  address: Allot 6036 Trident Road, SEAFORD MEADOWS  SA  5169
+  description: Single storey dwelling with garage and alfresco
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
 - council_reference: 113/2019
   address: 66 Pine Drive, ABERFOYLE PARK  SA  5159
   description: Deck, verandah and privacy screen.
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-22'
+- council_reference: 1130/2019
+  address: 371 Ackland Hill Road, COROMANDEL EAST  SA  5157
+  description: Boarding Cattery
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: 1131/2019
+  address: 12 Zoran Court, WOODCROFT  SA  5162
+  description: Storage shed (Domestic storage in association with dwelling)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: 1132/2019
+  address: 62 Serafino Drive, NOARLUNGA DOWNS  SA  5168
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: 1133/2019
+  address: 4/2 Petersen Crescent, PORT NOARLUNGA  SA  5167
+  description: Verandah and Deck
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
+- council_reference: 1134/2019
+  address: 8 Northumberland Road, ONKAPARINGA HILLS  SA  5163
+  description: Fibreglass inground swimming pool
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: 1135/2019
+  address: 4 Thames Drive, REYNELLA  SA  5161
+  description: Demolition of hall
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
+- council_reference: 1136/2019
+  address: 40 St Vincents View, ONKAPARINGA HILLS  SA  5163
+  description: Swimming pool and safety barrier fence
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: 1137/2019
+  address: 34 Maidencombe Drive, MOANA  SA  5169
+  description: Demolition of dwelling and outbuildings
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
+- council_reference: 1138/2019
+  address: Unit 13/1A Lyn Street, ABERFOYLE PARK  SA  5159
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
+- council_reference: 1139/2019
+  address: 31 Palmer Street, ALDINGA BEACH  SA  5173
+  description: Single storey dwelling with decking
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
 - council_reference: 114/2019
   address: 10 Leabrook Place, MORPHETT VALE  SA  5162
   description: Swimming pool and safety fence
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-21'
+- council_reference: 1140/2019
+  address: Pt Allot 54 Burgess Drive, NOARLUNGA CENTRE  SA  5168
+  description: Zambrero Colonnades Fit Out
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
+- council_reference: 1141/2019
+  address: 7 Marlin Road, PORT WILLUNGA  SA  5173
+  description: Single storey dwelling addition
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: 1142/2019
+  address: 9 Easton Road, HAPPY VALLEY  SA  5159
+  description: Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
+- council_reference: 1143/2019
+  address: 165 Communication Road, TATACHILLA  SA  5171
+  description: Swimming pool and safety fence
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1144/2019
+  address: 39A Pine Drive, ABERFOYLE PARK  SA  5159
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: 1145/2019
+  address: 9 Nakour Tarn, TATACHILLA  SA  5171
+  description: Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1146/2019
+  address: 108 Albany Avenue, PORT NOARLUNGA SOUTH  SA  5167
+  description: Demolition of house, verandah and shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-26'
+- council_reference: 1147/2019
+  address: 50 Woodcroft Drive, MORPHETT VALE  SA  5162
+  description: Pergola
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+- council_reference: 1148/2019
+  address: 9A Hui Hui Drive, HAPPY VALLEY  SA  5159
+  description: Single storey dwelling with garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1149/2019
+  address: 2 Pelagic Street, SEAFORD MEADOWS  SA  5169
+  description: Above ground swim spa
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
 - council_reference: 115/2019
   address: 2 Lydia Court, REYNELLA EAST  SA  5161
   description: Removal of a regulated tree
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-18'
+- council_reference: 1150/2019
+  address: Tasman Court, HACKHAM
+  description: Removal of a regulated tree - Eucalyptus globulus subsp. globulus (Tasmanian
+    Blue Gum) due to declining health, disease and increased risk of failure
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: 1151/2019
+  address: 1/50-52 Griffiths Drive, MOANA  SA  5169
+  description: 2 x two-storey dwellings with double garages
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
+- council_reference: 1152/2019
+  address: 10 Canberra Drive, ABERFOYLE PARK  SA  5159
+  description: Removal of Regulated Tree
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
+- council_reference: 1153/2019
+  address: 84 Main Road, MCLAREN FLAT  SA  5171
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1154/2019
+  address: 10 Cameron Road, ALDINGA BEACH  SA  5173
+  description: Fibreglass swimming pool
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1155/2019
+  address: 409 Plains Road, SELLICKS HILL  SA  5174
+  description: Construction of two storey dwelling and demolition of existing dwelling
+    once new dwelling built
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: 1156/2019
+  address: Allot 103 Sec 100 Bakewell Drive, SEAFORD HEIGHTS  SA  5169
+  description: Variation to DA 145/1817/2013/1
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: 1157/2019
+  address: 7 Park Avenue, ABERFOYLE PARK  SA  5159
+  description: Demolition of existing improvements use and development of land as
+    an OTR integrated service station complex
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: 1158/2019
+  address: 12 Aqua Place, MOANA  SA  5169
+  description: Single storey dwelling with double garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: 1159/2019
+  address: 24 Woodland Grove, ABERFOYLE PARK  SA  5159
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
 - council_reference: 116/2019
   address: 2 Tiller Drive, SEAFORD  SA  5169
   description: Change of use to consulting rooms with sign, carpark and landscaping
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-22'
+- council_reference: 1160/2019
+  address: 8/1B Larkdale Crescent, O'HALLORAN HILL  SA  5158
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1161/2019
+  address: 31 Jade Loop, ALDINGA BEACH  SA  5173
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1162/2019
+  address: 6 Halcyon Circuit, ALDINGA BEACH  SA  5173
+  description: Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1163/2019
+  address: 566-568 States Road, ONKAPARINGA HILLS  SA  5163
+  description: Single storey dwelling with garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1164/2019
+  address: 290 Little Road, WHITES VALLEY  SA  5172
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1165/2019
+  address: 31 Ellemsea Circuit, LONSDALE  SA  5160
+  description: Variation to DA 145/1699/2018 (Move building forward 1.3m)
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: 1166/2019
+  address: 17 Robbie Drive, REYNELLA EAST  SA  5161
+  description: Demolition of carport and alterations to dwelling
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1167/2019
+  address: 63 Randell Road, MORPHETT VALE  SA  5162
+  description: Internal alterations to existing dwelling - built in fire place
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1168/2019
+  address: 52 Kestrel Terrace, ALDINGA BEACH  SA  5173
+  description: Removal of retaining wall, earthworks and then construction of two
+    retaining walls
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: 1169/2019
+  address: 5 Old Main South Road, ALDINGA  SA  5173
+  description: Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
 - council_reference: 117/2019
   address: 14 Calderstones Drive, ONKAPARINGA HILLS  SA  5163
   description: Variation to 145/1954/2013 - conversion of games room to shed
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-18'
+- council_reference: 1170/2019
+  address: 46 Griffiths Drive, MOANA  SA  5169
+  description: Four x two storey residential flat building
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: 1171/2019
+  address: 82 Elliott Road, MCLAREN FLAT  SA  5171
+  description: Implement Shed
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: 1172/2019
+  address: 11 Heath Lane, FLAGSTAFF HILL  SA  5159
+  description: Fibreglass swimming pool
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: 1173/2019
+  address: 11 Crane Avenue, COROMANDEL VALLEY  SA  5051
+  description: Granny Flat
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: 1174/2019
+  address: 43 Corvette Road, SEAFORD  SA  5169
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: 1175/2019
+  address: 25 Kingston Circuit, SEAFORD RISE  SA  5169
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: 1176/2019
+  address: "  Sec Pt868 Chapel Hill Road, BLEWITT SPRINGS  SA  5171"
+  description: Installation of two cabin like structures
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: 1177/2019
+  address: 5 Merlot Street, REYNELLA EAST  SA  5161
+  description: Verandah
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: 1178/2019
+  address: 33 Greenfield Rise, ABERFOYLE PARK  SA  5159
+  description: Swimming Pool
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: 1179/2019
+  address: 511 Colville Road, WHITES VALLEY  SA  5172
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
 - council_reference: 118/2019
   address: 4 Bishop Street, WILLUNGA  SA  5172
   description: Solar panels on a tilt frame and parapet above carport
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-22'
+- council_reference: 1180/2019
+  address: 37 Herrick Street, SELLICKS BEACH  SA  5174
+  description: Two storey dwelling with garage
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: 1181/2019
+  address: 2 Plimsoll Road, SEAFORD  SA  5169
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: 1182/2019
+  address: Allot 3 Commercial Road, MASLIN BEACH  SA  5170
+  description: Carport
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: 1183/2019
+  address: 6 The Crest, CHANDLERS HILL  SA  5159
+  description: Timber stairs to replace existing rock steps
+  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
 - council_reference: 119/2019
   address: 29 Blundell Street, MORPHETT VALE  SA  5162
   description: Verandah
@@ -469,7 +1373,7 @@
   date_scraped: '2019-05-15'
   date_received: '2019-01-22'
 - council_reference: 141/2019
-  address: 30 Second Avenue, MOANA  SA  5169
+  address: 30A Second Avenue, MOANA  SA  5169
   description: Split level dwelling with associated garage and alfresco (Dwelling
     B)
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
@@ -520,8 +1424,8 @@
 - council_reference: 15/2019
   address: 15 Main Road, WILLUNGA  SA  5172
   description: The construction of two (2) tourist accommodation units with associated
-    car parking and landscaping, and emergency repairs to exisiting locally listed
-    heritage dwelling on site.
+    car parking, landscaping & emergency repairs to existing locally listed heritage
+    dwelling on site
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-03'
@@ -781,7 +1685,7 @@
   date_scraped: '2019-05-15'
   date_received: '2019-01-25'
 - council_reference: 189/2019
-  address: Allot 1100 Robinson Road, SEAFORD HEIGHTS  SA  5169
+  address: 28 Goyder Road, SEAFORD HEIGHTS  SA  5169
   description: Single storey dwelling with alfresco and double garage
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
@@ -1256,7 +2160,7 @@
   date_scraped: '2019-05-15'
   date_received: '2019-02-06'
 - council_reference: 26/2019
-  address: Allot 457 Hudson Road, SEAFORD HEIGHTS  SA  5169
+  address: 13 Hudson Road, SEAFORD HEIGHTS  SA  5169
   description: Single storey dwelling with associated garage and alfresco
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
@@ -1491,12 +2395,6 @@
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-07'
-- council_reference: 296/2019
-  address: 16 Seashell Street, SEAFORD MEADOWS  SA  5169
-  description: Test
-  info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-02-11'
 - council_reference: 297/2019
   address: 16 Seashell Street, SEAFORD MEADOWS  SA  5169
   description: 'test 2
@@ -1718,7 +2616,7 @@
   date_scraped: '2019-05-15'
   date_received: '2019-02-07'
 - council_reference: 329/2019
-  address: "  Sec 16 Fairlane Road, KANGARILLA  SA  5157"
+  address: 58 Recreation Road, KANGARILLA  SA  5157
   description: Single storey dwelling with garage
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
@@ -2562,7 +3460,7 @@
   date_received: '2019-02-25'
 - council_reference: 453/2019
   address: 3 Kalev Court, HAPPY VALLEY  SA  5159
-  description: Verandah
+  description: Verandah/Patio
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-22'
@@ -3189,10 +4087,8 @@
   date_received: '2019-03-07'
 - council_reference: 545/2019
   address: 1-2/76 How Road, ALDINGA BEACH  SA  5173
-  description: Amendments to application 145/3378/2017 24 hour integrated service
-    station comprising control building freestanding canopy, signage and associated
-    carparking and landscaping – addition of LPG Tank and 2.4 metre high fire wall
-    and amendment to landscaping
+  description: Variation to Development Application 145/3378/2017 - installation of
+    LPG tank and construction of 2.4 metre high wall
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-06'
@@ -3402,7 +4298,7 @@
   date_scraped: '2019-05-15'
   date_received: '2019-03-06'
 - council_reference: 577/2019
-  address: "  Sec 16 Fairlane Road, KANGARILLA  SA  5157"
+  address: 58 Recreation Road, KANGARILLA  SA  5157
   description: Farm impliment shed
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
@@ -3948,7 +4844,9 @@
   date_received: '2019-03-22'
 - council_reference: 658/2019
   address: 6 Elenora Court, NOARLUNGA DOWNS  SA  5168
-  description: Alterations to dwelling (2b) - variation to 2220/2015
+  description: Variation to 2240/2015 - Two single storey semi detached dwellings
+    with alfresco and garage & one detached single storey dwelling with garage (change
+    in drafter)
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-22'
@@ -3990,7 +4888,7 @@
   date_received: '2019-03-24'
 - council_reference: 665/2019
   address: 377 Old Coach Road, ALDINGA  SA  5173
-  description: Tourist accommodation comprising two cabins
+  description: Tourist accommodation comprising two cabins - Non-complying
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-15'
@@ -4070,7 +4968,7 @@
   date_received: '2019-03-22'
 - council_reference: 677/2019
   address: 51 Wellington Avenue, SELLICKS BEACH  SA  5174
-  description: Studio and storage rooms ancillary to detached dwelling
+  description: Outbuilding/storage rooms ancillary to detached dwelling
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-25'
@@ -4242,7 +5140,7 @@
   date_received: '2019-03-26'
 - council_reference: 701/2019
   address: 12 Kalev Court, HAPPY VALLEY  SA  5159
-  description: Single storey dwelling with double garage and terrace
+  description: Single storey detached dwelling with double garage and terrace
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-28'
@@ -4457,7 +5355,7 @@
   date_scraped: '2019-05-15'
   date_received: '2019-04-01'
 - council_reference: 732/2019
-  address: Allot 1100 Robinson Road, SEAFORD HEIGHTS  SA  5169
+  address: 8 Standish Road, SEAFORD HEIGHTS  SA  5169
   description: Single storey dwelling with associated garage
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
@@ -4626,7 +5524,7 @@
   date_scraped: '2019-05-15'
   date_received: '2019-04-04'
 - council_reference: 758/2019
-  address: Allot 1100 Robinson Road, SEAFORD HEIGHTS  SA  5169
+  address: 12 Goyder Road, SEAFORD HEIGHTS  SA  5169
   description: Single storey detached dwelling
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
@@ -4731,8 +5629,8 @@
   date_received: '2019-04-07'
 - council_reference: 774/2019
   address: 187 Black Road, FLAGSTAFF HILL  SA  5159
-  description: 'Single storey dwelling additions: Conversion of existing garage to
-    habitable room, front and rear verandah, carport and garage on boundary'
+  description: 'Single storey dwelling additions: Conversion of garage to habitable
+    room, front verandah, carport and garage on boundary'
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-04'
@@ -4781,7 +5679,7 @@
   date_received: '2019-04-07'
 - council_reference: 781/2019
   address: 5 Powell Street, HAPPY VALLEY  SA  5159
-  description: Dwelling addition and verandah
+  description: Dwelling addition
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-08'
@@ -4830,7 +5728,9 @@
 - council_reference: 789/2019
   address: 143-173 Bains Road, MORPHETT VALE  SA  5162
   description: Demolition of existing buildings, additions and alterations to existing
-    educational establishment and removal of one Regulated and one Significant tree.
+    educational establishment, including new early learning centre (120 children)
+    carpark and playing area, new two storey junior school building, new tennis courts
+    and playing areas with removal of one Regulated and one Significant tree
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-09'
@@ -5112,7 +6012,7 @@
   date_scraped: '2019-05-15'
   date_received: '2019-01-16'
 - council_reference: 830/2019
-  address: Galloway Road, O'SULLIVAN BEACH
+  address: 2/Galloway Road, O'SULLIVAN BEACH  SA  5166
   description: Removal of significant tree, Eucalyptus gomphocephala, due to poor
     and declining health and short life expectancy
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
@@ -5199,7 +6099,8 @@
   date_received: '2019-04-15'
 - council_reference: 843/2019
   address: 63 Oakridge Road, ABERFOYLE PARK  SA  5159
-  description: Variation to 145/8094/2014 (removal of condition 6.3)
+  description: Variation to Development Plan Consent granted for 145/8094/2014 - varying
+    condition 6
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-16'
@@ -5433,7 +6334,7 @@
   date_received: '2019-04-18'
 - council_reference: 878/2019
   address: 5 Wright Close, MORPHETT VALE  SA  5162
-  description: Single storey dwelling with garage and alfresco
+  description: Single-storey detached dwelling
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-23'
@@ -5583,7 +6484,7 @@
   date_received: '2019-01-18'
 - council_reference: 900/2019
   address: 181 Taylors Hill Road, WILLUNGA  SA  5172
-  description: Change of use of exisitng shed to olive press (Max ) and retrospective
+  description: Change of use of existing shed to olive press (Max ) and retrospective
     olive grove (non-complying)
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
@@ -5800,21 +6701,19 @@
   date_received: '2019-04-30'
 - council_reference: 933/2019
   address: 29 High Street, WILLUNGA  SA  5172
-  description: Two bed and breakfast units and upgrade of toilet block and septic
-    system
+  description: 2 x bed and breakfast units and upgrade of toilet block
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-29'
 - council_reference: 934/2019
   address: 182 Main Road, MCLAREN VALE  SA  5171
-  description: Shop top sign and free standing sign in accociateion with existing
-    business
+  description: Shop top sign and free standing sign in association with existing business
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-30'
 - council_reference: 935/2019
   address: 4 Parsons Road, REYNELLA  SA  5161
-  description: Dwelling
+  description: Single storey detached dwelling
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-01'
@@ -5935,7 +6834,7 @@
   date_received: '2019-05-02'
 - council_reference: 953/2019
   address: 3/8 Jay Drive, WILLUNGA  SA  5172
-  description: Shed extension
+  description: shelter for unloading and loading of vehicles
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-06'
@@ -5959,7 +6858,7 @@
   date_received: '2019-05-03'
 - council_reference: 957/2019
   address: 13 Roundaway Crescent, O'HALLORAN HILL  SA  5158
-  description: Verandah and Carport
+  description: Verandah to rear of existing dwelling
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-03'
@@ -6001,7 +6900,7 @@
   date_received: '2019-05-06'
 - council_reference: 963/2019
   address: 10 Pitcher Place, WOODCROFT  SA  5162
-  description: Single storey dwelling with garage
+  description: Single storey detached dwelling with garage
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-06'
@@ -6049,12 +6948,12 @@
   date_received: '2019-01-18'
 - council_reference: 970/2019
   address: 71 Valley View Drive, MCLAREN VALE  SA  5171
-  description: Replace two existing shed with one larger shed
+  description: Replacement of existing shed
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-03'
 - council_reference: 971/2019
-  address: 100-102 Reynell Road, WOODCROFT  SA  5162
+  address: 100A Reynell Road, WOODCROFT  SA  5162
   description: Single storey detached dwelling
   info_url: http://pathway.onkaparinga.sa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
