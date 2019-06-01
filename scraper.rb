@@ -15,7 +15,7 @@ page = agent.get(scraper.base_url)
 i = 1;
 error = 0
 while error < 10 do
-  list = scraper.search_for_one_application(page, "#{i}/#{ENV['MORPH_PERIOD']}")
+  list = EpathwayScraper::Page::Search.search_for_one_application(page, "#{i}/#{ENV['MORPH_PERIOD']}")
 
   count = 0
   scraper.scrape_index_page(list) do |record|
